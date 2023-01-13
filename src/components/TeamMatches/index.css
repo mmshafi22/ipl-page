@@ -1,0 +1,34 @@
+.team-detail-container {
+  height: 100vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.spinner {
+  align-self: center;
+}
+.KKR {
+  background-image: linear-gradient(to bottom, #4f5db0, #5755a7);
+}
+.RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d);
+}
+.KXP {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d);
+}
+.SH {
+  background-image: linear-gradient(to bottom, #f26d22, #f26d22);
+}
+.CSK {
+  background-image: linear-gradient(to bottom, #f7db00, #f7db00);
+}
+.MI {
+  background-image: linear-gradient(to bottom, #13418b, #5755a7);
+}
+.RR {
+  background-image: linear-gradient(to bottom, #da237b, #da237b);
+}
+.DC {
+  background-image: linear-gradient(to bottom, #5755a7, #13418b);
+}
